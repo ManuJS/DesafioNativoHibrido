@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Desafio Nativo Hibrido</string>
+    <string name="Titulo_logo">Mobile Dev BH</string>
     <string name="nome">Enter name : </string>
     <string name="user">User Twiter : </string>
     <string name="btn_cam">send photo</string>
+    <string name="descript"> photo for send twitter</string>
+    <string name="logo"> Logo do App </string>
 </resources>
